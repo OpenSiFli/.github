@@ -1,4 +1,4 @@
-# Welcome to OpenSiFli at GitHub
+# Welcome to OpenSiFli at GitHub, Home of SF32!
 
 SiFli Technologies is a fabless semiconductor design company specializing in silicon platforms tailored for modern AIoT applications. These platforms are typically battery-powered and need to deliver either high-performance computing, ultra-low power consumption, or, frequently, both simultaneously.
 
@@ -8,7 +8,7 @@ All SiFli microcontrollers come standard with an in-house developed 2.5D GPU, pr
 
 Low-power wireless connectivity is provided via single-mode BLE or dual-mode BT/BLE, offering industry-leading ultra-low power consumption. For instance, maintaining a BLE connection with a 1-second interval requires as little as 6µA, while keeping a BT sniff mode (1-attempt) with a 1-second interval requires less than 10uA.
 
-Here you can find a list of different resources related to developing your own products.
+Here you can find a list of resources to help you develope your own products.
 
 ## Website
 
