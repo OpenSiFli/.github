@@ -13,9 +13,15 @@ Here you can find a list of resources to help you develope your own products.
 ## Website
 
 * [SiFli's Official Website](https://www.sifli.com/)
-* [Wikipedia for Bringing up Development Boards](https://wiki.sifli.com/)
-* [SDK Documentation](https://docs.sifli.com/)
+* Wikipedia for Bringing up Development Boards: [CN](https://wiki.sifli.com/), [EN](https://wiki.sifli.com/en/)
+* SDK Documentation: [CN](https://docs.sifli.com/), EN (coming soon ...)
 
 ## SDK
 
 * [SiFli SDK](https://github.com/OpenSiFli/SiFli-SDK)
+
+## Discussions and Requests
+`GitHub discussions` are used for various topics and feature and example requests.
+* [General Discussions](https://github.com/OpenSiFli/SiFli-SDK/discussions)
+* [SDK Feature Requests](https://github.com/OpenSiFli/SiFli-SDK/discussions/35)
+* [SDK Example Requests](https://github.com/OpenSiFli/SiFli-SDK/discussions/34)
