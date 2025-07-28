@@ -13,8 +13,8 @@ Here you can find a list of resources to help you develope your own products.
 ## Website
 
 * [SiFli's Official Website](https://www.sifli.com/)
-* Wikipedia for Bringing up Development Boards: [CN](https://wiki.sifli.com/), [EN](https://wiki.sifli.com/en/)
-* SDK Documentation: [CN](https://docs.sifli.com/), EN (coming soon ...)
+* Wikipedia for chip selection and dev-kits bring-up: [CN](https://wiki.sifli.com/), [EN](https://wiki.sifli.com/en/)
+* SDK Documentation: [CN](https://docs.sifli.com/), [EN](https://docs.sifli.com/projects/sdk/latest/en/sf32lb52x/index.html)
 
 ## SDK
 
