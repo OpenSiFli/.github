@@ -13,15 +13,21 @@ Here you can find a list of resources to help you develope your own products.
 ## Website
 
 * [SiFli's Official Website](https://www.sifli.com/)
-* Wikipedia for chip selection and dev-kits bring-up: [CN](https://wiki.sifli.com/), [EN](https://wiki.sifli.com/en/)
+* Wikipedia for chip selection and dev-kits bring-up guidance: [CN](https://wiki.sifli.com/), [EN](https://wiki.sifli.com/en/)
 * SDK Documentation: [CN](https://docs.sifli.com/), [EN](https://docs.sifli.com/projects/sdk/latest/en/sf32lb52x/index.html)
 
 ## SDK
 
 * [SiFli SDK](https://github.com/OpenSiFli/SiFli-SDK)
+* [Gitee Image](https://gitee.com/SiFli)
+
+## Purchasing the Hardware
+
+* [Taobao Store for chips, modules, and dev-kits](https://sifli.taobao.com/)
 
 ## Discussions and Requests
 `GitHub discussions` are used for various topics and feature and example requests.
-* [General Discussions](https://github.com/OpenSiFli/SiFli-SDK/discussions)
-* [SDK Feature Requests](https://github.com/OpenSiFli/SiFli-SDK/discussions/35)
-* [SDK Example Requests](https://github.com/OpenSiFli/SiFli-SDK/discussions/34)
+* [General Discussions at GitHub](https://github.com/OpenSiFli/SiFli-SDK/discussions)
+* [SDK Feature Requests at GitHub](https://github.com/OpenSiFli/SiFli-SDK/discussions/35)
+* [SDK Example Requests at GitHub](https://github.com/OpenSiFli/SiFli-SDK/discussions/34)
+* [Chinese BBS for general discussions, feature requests, and everything else... ](https://bbs.sifli.com/)
