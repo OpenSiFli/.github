@@ -23,7 +23,8 @@ Here you can find a list of resources to help you develope your own products.
 
 ## Purchasing the Hardware
 
-* [Taobao Store for chips, modules, and dev-kits](https://sifli.taobao.com/)
+* Buying chips, modules, and dev-kits in small quantities: [Taobao Store](https://sifli.taobao.com/)
+* For official quote, please contact us at [sales@sifli.com](mailto:sales@sifli.com)
 
 ## Discussions and Requests
 `GitHub discussions` are used for various topics and feature and example requests.
