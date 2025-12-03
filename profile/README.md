@@ -19,7 +19,7 @@ Here you can find a list of resources to help you develope your own products.
 ## SDK
 
 * [SiFli SDK](https://github.com/OpenSiFli/SiFli-SDK)
-* [Gitee Image](https://gitee.com/SiFli)
+* [Gitee Mirror](https://gitee.com/SiFli)
 
 ## Purchasing the Hardware
 
